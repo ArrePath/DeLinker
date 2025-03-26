@@ -7,16 +7,10 @@ dependencies:
   - python=3.8
   - rdkit
   - numpy
-  - pandas
-  - scipy=1.1.0
-  - scikit-learn=0.20.1
+  - scikit-learn=0.20.1*
   - tensorflow-gpu=1.10.0
   - tensorboard=1.10.0
-  - matplotlib=3.0.2
-  - pillow=5.3.0
-  - docopt
-  - typing
-  - six=1.11.0
+  - docopt=0.6.2
   - setuptools
   - wheel
   - pip:

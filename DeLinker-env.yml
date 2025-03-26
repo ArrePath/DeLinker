@@ -2,7 +2,6 @@ name: DeLinker-env
 channels:
   - rdkit
   - conda-forge
-  - anaconda
   - defaults
 dependencies:
   - _tflow_1100_select=0.0.1=gpu

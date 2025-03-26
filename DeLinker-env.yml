@@ -14,10 +14,10 @@ dependencies:
   - tensorboard=1.10.0
   - matplotlib=3.0.2
   - pillow=5.3.0
-  - docopt=0.6.2
-  - typing=3.6.4
+  - docopt
+  - typing
   - six=1.11.0
-  - setuptools=40.6.2
-  - wheel=0.32.3
+  - setuptools
+  - wheel
   - pip:
     - planarity==0.4.1

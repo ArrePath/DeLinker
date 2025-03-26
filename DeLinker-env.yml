@@ -10,6 +10,7 @@ dependencies:
   - docopt
   - setuptools
   - wheel
+  - cython
   - pip:
     - planarity==0.4.1
     - tensorflow-gpu==1.10.0

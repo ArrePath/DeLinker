@@ -6,10 +6,10 @@ dependencies:
   - python=3.6
   - rdkit
   - numpy
-  - tensorflow-gpu=1.10.0
   - tensorboard=1.10.0
   - docopt
   - setuptools
   - wheel
   - pip:
     - planarity==0.4.1
+    - tensorflow-gpu==1.10.0
